@@ -39,6 +39,7 @@ body {
 .contacts {
   font-weight: 400;
   font-style: normal;
+  color: var(--primary-text-color);
 }
 .contacts:hover,
 .contacts:focus {
